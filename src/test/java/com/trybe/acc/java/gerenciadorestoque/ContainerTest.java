@@ -3,6 +3,7 @@ package com.trybe.acc.java.gerenciadorestoque;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.Assertions.fail;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
